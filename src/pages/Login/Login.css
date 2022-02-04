@@ -1,0 +1,13 @@
+.nuk-btn{
+    box-shadow: 2px 2px 2px rgb(199, 199, 199);
+}
+
+.login-container{
+    background-color: red;
+}
+
+.login-main{
+    background-color: white;
+    border-top-left-radius: 65px;
+    border-bottom-right-radius: 65px;
+}
