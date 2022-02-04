@@ -8,6 +8,5 @@
 
 .login-main{
     background-color: white;
-    border-top-left-radius: 65px;
-    border-bottom-right-radius: 65px;
+    border-radius: 65px 0 65px 0;
 }
